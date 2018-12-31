@@ -22,8 +22,7 @@
       							<ul class="menu">
       								<li class="active"><a href="index.html">About us</a></li>
       								<li><a href="#about">Work</a></li>
-                      <li>	<a href="index.html"><img src="images/logo.png" alt="logo" title="logo">
-            						</a></li>
+                      <li><a href="index.html"><img src="images/logo.svg" alt=""></a></li>
       								<li><a href="#blog">Shop</a></li>
       								<li><a href="#gallery">Contact</a></li>
       							</ul>

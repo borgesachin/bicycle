@@ -55,6 +55,8 @@ nav:after {
 nav ul li {
   margin: 0;
   display: inline-block; }
+  nav ul li img {
+    width: 100%; }
 
 nav a {
   color: #573e2a;
@@ -106,6 +108,9 @@ nav ul ul {
 
 nav ul li:hover > ul {
   display: inherit; }
+
+nav ul li:nth-child(3) {
+  width: 13%; }
 
 nav ul ul li {
   width: 170px !important;
